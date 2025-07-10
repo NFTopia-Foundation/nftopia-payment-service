@@ -5,6 +5,10 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+
+#env
+.env
+
 # Gradle Wrapper (keep these files)
 !gradle/wrapper/gradle-wrapper.jar
 !gradle/wrapper/gradle-wrapper.properties
